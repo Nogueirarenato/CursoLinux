@@ -1,0 +1,2 @@
+less /etc/passwd arquivo onde ficam armazenadas as senhas
+grep

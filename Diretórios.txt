@@ -1,0 +1,10 @@
+/ (root) raiz do sistema operacional
+/bin são arquivos binários do sistema
+/boot arquivos do kernel
+/dev dispositivos físicos
+/etc arquivos de configurações do sistema
+/media
+/tmp diretório temporário
+/var 
+/home diretorio dos usuários comuns
+/usr contém os arquivos do sistema operacional

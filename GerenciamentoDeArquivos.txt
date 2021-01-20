@@ -1,0 +1,9 @@
+pwd mostra o diretório atual
+mkdir cria uma pasta
+ls lista os arquivos do diretorio atual
+rmdir nome_da_pasta
+rmdir --ignore-fail-on-non-empty   remove a pasta mesmo que contenha arquivos dentro
+ls -a mostra os arquivos ocultos
+ls -lrt mostra todos os arquivos, incluindo os ocultos.
+tar compactar arquivos
+gzip compreensa o arquivo
