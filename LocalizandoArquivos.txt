@@ -1,0 +1,28 @@
+********Localizando Arquivos no Linux********
+
+Os trẽs principais comandos são:
+
+>>locale
+>>find
+>>grep
+
+
+*********LOCATE********
+
+É preciso instalar o mlocate
+
+~$ updatedb
+~$ locate
+
+
+~$ locate service //busca serviço 
+
+Exempçp
+
+~$locate services | grep Makefile
+
+
+*******FIND*******
+
+~$ find -name
+~$ find -size 

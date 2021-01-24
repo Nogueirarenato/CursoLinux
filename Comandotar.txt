@@ -1,0 +1,15 @@
+O comando tar é um comando de compactar arquivos
+
+exemplo:
+
+~$ tar -cvf NOME_DO_ARQUIVO DIRETORIO
+
+-c cria um novo arquvio
+v mostra o status
+f nome do arquivo
+
+
+nome do arquivo e diretorio
+
+
+~$
