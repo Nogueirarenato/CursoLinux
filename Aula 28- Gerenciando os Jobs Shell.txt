@@ -1,0 +1,11 @@
+~$ top // mostra todos os processos que acontece no linux
+
+~$jobs //vizualiza os trabalhos
+
+
+~$fg // rodando em primeiro plano
+
+
+~$bg // rodando em background
+
+~$ kill + número_do_processo // mata o processo

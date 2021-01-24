@@ -1,0 +1,9 @@
+Para alterar os banners do login:
+
+
+~$ vim /etc/issue
+
+ou
+
+~$ vim /etc/motd
+

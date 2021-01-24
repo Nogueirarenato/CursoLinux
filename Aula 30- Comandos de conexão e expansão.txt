@@ -1,0 +1,8 @@
+| pipe
+& e-comercial
+;
+()
+<>
+
+| // conecta a saida de um comando com a entrada de outro
+

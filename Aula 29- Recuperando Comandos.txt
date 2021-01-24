@@ -1,0 +1,16 @@
+
+~$ history // mostra todos os comandos utilizados anteriormente
+
+~$ history "n" // lista os últimos "n" comandos
+
+~$ !! // executa o último comando
+
+~$ !?string? // string = parte do comando 
+
+~$ fc // mostra o ultimo comando que foi digitado
+
+Ctrl+r //busca reversa
+
+Os comandos do histórico são armazenados no 
+
+.bash_history

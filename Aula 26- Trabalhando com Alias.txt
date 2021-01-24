@@ -1,0 +1,14 @@
+*****Alias são atalhos para comandos*****
+
+Exemplo:
+
+~$ alias Atalho='Comandos'
+
+
+para verificar todos os alias criados:
+
+~$ alias
+
+Para tornar permanente é preciso adicionar o alias no .bashrc
+
+
